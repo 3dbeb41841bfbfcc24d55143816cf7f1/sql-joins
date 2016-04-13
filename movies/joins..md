@@ -45,4 +45,5 @@ SQL INNER JOIN Syntax
 `INNER JOIN table2
 `ON table1.column_name=table2.column_name;
 
-![alt text](sqljoinsdiagram1.png "Inner JOIN")
+![alt text](https://github.com/ATL-WDI-Curriculum/sql-joins/blob/master/img_innerjoin.gif "Inner JOIN")
+
